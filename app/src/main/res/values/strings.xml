@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart_phone_application_Assignment_01</string>
+    <string name="Btn1_name">"Division_Name"</string>
+    <string name="Btn2_name">"Border Countries"</string>
+    <string name="toast_text">"Division Button is clicked"</string>
+    <string name="toast_text2">"Border Button is clicked"</string>
+</resources>
